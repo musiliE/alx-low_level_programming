@@ -6,7 +6,7 @@
 int _isupper(int c);
 
 {
-	char ch = 'C';
+	char ch >=65 , <=90;
 
 	if (isupper(ch))
 	{

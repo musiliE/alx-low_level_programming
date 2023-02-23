@@ -8,9 +8,9 @@
 int _isupper(int c);
 
 {
-	c = 'A';
+	char c = 'A';
 
-	if (isupper(c));
+	if (isupper(c))
 	{
 		return (1);
 	}

@@ -8,7 +8,9 @@
 int main(void);
 
 {
-	char c = C;
+	char c;
+
+	c = "C"
 
 	if (isupper(c))
 	{

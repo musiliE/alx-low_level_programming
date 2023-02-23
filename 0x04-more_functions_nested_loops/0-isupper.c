@@ -8,8 +8,7 @@
 int _isupper(int c);
 
 {
-	char c;
-	c = C;
+	c = 'A';
 
 	if (isupper(c));
 	{

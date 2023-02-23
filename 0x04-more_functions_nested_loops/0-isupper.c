@@ -8,9 +8,9 @@
 int main(void);
 
 {
-	int char = C;
+	char c = C;
 
-	if (isupper(char))
+	if (isupper(c))
 	{
 		return (1);
 	}

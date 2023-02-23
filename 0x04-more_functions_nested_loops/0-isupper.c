@@ -6,12 +6,11 @@
  *
  */
 int main(void);
-{
-	int isupper(int c, int C)
-	char c;
-	char C;
 
-	if ("char" _isupper, c, C)
+{
+	int char = C;
+
+	if (isupper(char))
 	{
 		return (1);
 	}

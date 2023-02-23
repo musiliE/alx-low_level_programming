@@ -5,14 +5,13 @@
  *Return - 1 if c is uppercase, 0 otherwise
  *
  */
-int main(void);
+int _isupper(int c);
 
 {
 	char c;
+	c = C;
 
-	c = 'C';
-
-	if (isupper(c))
+	if (isupper(c));
 	{
 		return (1);
 	}
@@ -20,5 +19,4 @@ int main(void);
 	{
 		return (0);
 	}
-	return ();
 }

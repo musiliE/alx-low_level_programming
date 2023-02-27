@@ -8,9 +8,9 @@
  * Return: the length of a string
  */
 
-void _puts(char *str) 
+void _puts(char *str)
 {
-	while (*str != '\0') 
+	while (*str != '\0')
 	{
 		putchar(*str);
 		str++;

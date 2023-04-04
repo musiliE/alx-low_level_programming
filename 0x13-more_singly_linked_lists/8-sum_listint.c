@@ -3,7 +3,6 @@
 /**
  * sum_listint - returns the sum of all the data (n) of a linked list.
  * @head: head of a list.
- *
  * Return: sum of all the data (n).
  */
 

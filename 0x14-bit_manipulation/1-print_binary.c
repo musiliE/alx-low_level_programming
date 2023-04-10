@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "maih.h"
 
 /**
- * print_binary - prints the binary representation
+ * print_binary - a function that prints the binary representation
  * of a number.
  * @n: unsigned long int.
  *
